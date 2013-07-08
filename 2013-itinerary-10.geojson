@@ -11,7 +11,7 @@
             "properties": {
             	"title": "Base Camp (Tent City)",
                 "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
-                "marker-symbol": "1",
+                "marker-symbol": "a",
                 "marker-color": "#34495E",
                 "elevation": "6691",
                 "water-source": "plumbing",
@@ -33,7 +33,7 @@
             	"title": "Bent Camp",
                 "description": "Bent is a starting camp northwest of Ponil.",
                 "elevation": "7320",
-                "marker-symbol": "2",
+                "marker-symbol": "campsite",
                 "marker-color": "#2980B9",
                 "water-source": "stream",
                 "facilities": "none",
@@ -53,7 +53,7 @@
             "properties": {
                 "description": "Dan Beard",
                 "elevation": null,
-                "marker-symbol": "3",
+                "marker-symbol": "campsite",
                 "marker-color": "#2980B9"
             },
             "geometry": {
@@ -69,7 +69,7 @@
             "properties": {
                 "description": "Seally Canyon Camp",
                 "elevation": null,
-                "marker-symbol": "4",
+                "marker-symbol": "campsite",
                 "marker-color": "#2980B9"
             },
             "geometry": {
@@ -85,7 +85,7 @@
             "properties": {
                 "description": "Whiteman Vega",
                 "elevation": null,
-                "marker-symbol": "5",
+                "marker-symbol": "campsite",
                 "marker-color": "#2980B9"
             },
             "geometry": {
@@ -101,7 +101,7 @@
 	        "properties": {
 		        "description": "Iris Park",
 		        "elevation" : 8530,
-		        "marker-symbol": "6",
+		        "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
 	        },
 	        "geometry": {
@@ -117,7 +117,7 @@
 	        "properties": {
 		        "description": "Upper Greenwood",
 		        "elevation" : 8280,
-		        "marker-symbol": "7",
+		        "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
 	        },
 	        "geometry": {
@@ -133,7 +133,7 @@
             "properties": {
                 "description": "Baldy Town",
                 "elevation": "9825",
-                "marker-symbol": "8",
+                "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
             },
             "geometry": {
@@ -149,7 +149,7 @@
             "properties": {
                 "description": "Baldy Town",
                 "elevation": "9825",
-                "marker-symbol": "9",
+                "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
             },
             "geometry": {
@@ -181,7 +181,7 @@
             "properties": {
                 "description": "Baldy Skyline Camp",
                 "elevation": "9140",
-                "marker-symbol": "10",
+                "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
             },
             "geometry": {
@@ -197,7 +197,7 @@
             "properties": {
                 "description": "Ponil",
                 "elevation": "7128",
-                "marker-symbol": "11",
+                "marker-symbol": "campsite",
 		        "marker-color": "#2980B9"
             },
             "geometry": {
