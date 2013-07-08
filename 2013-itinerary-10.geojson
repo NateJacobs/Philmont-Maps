@@ -5,6 +5,8 @@
             "type": "Feature",
             "properties": {
                 "description": "Tent City",
+                "marker-symbol": "A",
+                "marker-color": "#2C3E50",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
@@ -20,8 +22,9 @@
             "type": "Feature",
             "properties": {
                 "description": "Bent Camp",
-                "marker-symbol": "1",
                 "elevation": null,
+                "marker-symbol": "1",
+                "marker-color": "#3498DB",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -36,8 +39,9 @@
             "type": "Feature",
             "properties": {
                 "description": "Dan Beard",
-                "marker-symbol": "2",
                 "elevation": null,
+                "marker-symbol": "2",
+                "marker-color": "#3498DB",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -52,8 +56,9 @@
             "type": "Feature",
             "properties": {
                 "description": "Seally Canyon Camp",
-                "marker-symbol": "3",
                 "elevation": null,
+                "marker-symbol": "3",
+                "marker-color": "#3498DB",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -68,8 +73,9 @@
             "type": "Feature",
             "properties": {
                 "description": "Whiteman Vega",
-                "marker-symbol": "4",
                 "elevation": null,
+                "marker-symbol": "4",
+                "marker-color": "#3498DB",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -84,8 +90,9 @@
 	        "type": "Feature",
 	        "properties": {
 		        "description": "Iris Park",
-                        "marker-symbol": "5",
 		        "elevation" : 8530,
+		        "marker-symbol": "5",
+		        "marker-color": "#3498DB",
 		        "symbol": "waypoint"
 	        },
 	        "geometry": {
