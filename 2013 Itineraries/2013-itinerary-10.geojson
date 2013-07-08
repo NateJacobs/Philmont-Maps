@@ -3,8 +3,10 @@
     "name": "2013 Itinerary 10",
     "difficulty": "Challenging",
     "miles": "67",
+    "burro-packing": "yes",
     "food-pickup": "3",
     "showers": "3",
+    "url": "http://philmontscoutranch.org/filestore/philmont/camping/2013itinerary/2013itin_10.jpg",
     "features": [
         {
             "type": "Feature",
@@ -205,6 +207,27 @@
                 "coordinates": [
                     -105.03829,
                     36.62274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+            	"title": "Base Camp (Tent City)",
+                "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
+                "marker-symbol": "a",
+                "marker-color": "#34495E",
+                "elevation": "6691",
+                "water-source": "plumbing",
+                "facilities": "none",
+                "location-type": "base camp",
+                "program": "campfire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95904,
+                    36.45168
                 ]
             }
         }
