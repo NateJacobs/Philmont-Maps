@@ -1,14 +1,23 @@
 {
     "type": "FeatureCollection",
+    "name": "2013 Itinerary 10",
+    "difficulty": "Challenging",
+    "miles": "67",
+    "food-pickup": "3",
+    "showers": "3",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "description": "Tent City",
+            	"title": "Base Camp (Tent City)",
+                "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
                 "marker-symbol": "a",
                 "marker-color": "#34495E",
-                "elevation": null,
-                "symbol": "Waypoint"
+                "elevation": "6691",
+                "water-source": "plumbing",
+                "facilities": "none",
+                "location-type": "base camp",
+                "program": "campfire"
             },
             "geometry": {
                 "type": "Point",
@@ -21,11 +30,15 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Bent Camp",
-                "elevation": null,
+            	"title": "Bent Camp",
+                "description": "Bent is a starting camp northwest of Ponil.",
+                "elevation": "7320",
                 "marker-symbol": "1",
                 "marker-color": "#2980B9",
-                "symbol": "Waypoint"
+                "water-source": "stream",
+                "facilities": "none",
+                "location-type": "trail camp",
+                "program": "none"
             },
             "geometry": {
                 "type": "Point",

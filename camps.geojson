@@ -3112,9 +3112,14 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Tent City",
-                "elevation": null,
-                "symbol": "Waypoint"
+            	"title": "Base Camp (Tent City)",
+                "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
+                "marker-symbol": "",
+                "elevation": "6691",
+                "water-source": "plumbing",
+                "facilities": "none",
+                "location-type": "base camp",
+                "program": "campfire"
             },
             "geometry": {
                 "type": "Point",
