@@ -2373,6 +2373,21 @@
             }
         },
         {
+	        "type": "Feature",
+	        "properties": {
+		        "description": "Iris Park",
+		        "elevation" : 8530,
+		        "symbol": "waypoint"
+	        },
+	        "geometry": {
+		        "type": "Point",
+		        "coordinates": [
+		        	-105.155645,
+		        	36.727193
+		        ]
+	        }
+        }
+        {
             "type": "Feature",
             "properties": {
                 "description": "Lamberts Mine Camp",
