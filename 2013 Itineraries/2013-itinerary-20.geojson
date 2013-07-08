@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "name": "2013 Itinerary 20",
+    "difficulty": "Rugged",
+    "miles": "76",
+    "burro-packing": "yes",
+    "food-pickup": "4",
+    "showers": "1",
+    "url": "http://philmontscoutranch.org/filestore/philmont/camping/2013itinerary/2013itin_20.jpg",
+    "features": [
+    	{
+            "type": "Feature",
+            "properties": {
+            	"title": "Base Camp (Tent City)",
+                "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
+                "marker-symbol": "a",
+                "marker-color": "#34495E",
+                "elevation": "6691",
+                "water-source": "plumbing",
+                "facilities": "none",
+                "location-type": "base camp",
+                "program": "campfire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95904,
+                    36.45168
+                ]
+            }
+        },
+    	{
+            "type": "Feature",
+            "properties": {
+                "description": "Anasazi Camp",
+                "elevation": "7040",
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98046,
+                    36.60571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Old Camp",
+                "time": "1969-12-31T18:00:00.000Z",
+                "elevation": null,
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.02851,
+                    36.66276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Seally Canyon Camp",
+                "elevation": null,
+                "marker-symbol": "campsite",
+                "marker-color": "#2980B9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.10081,
+                    36.75258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Whiteman Vega",
+                "elevation": null,
+                "marker-symbol": "campsite",
+                "marker-color": "#2980B9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.102,
+                    36.79377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Dan Beard",
+                "elevation": null,
+                "marker-symbol": "campsite",
+                "marker-color": "#2980B9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.08892,
+                    36.67821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Ponil",
+                "elevation": "7128",
+                "marker-symbol": "campsite",
+		        "marker-color": "#2980B9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.03829,
+                    36.62274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Pueblano",
+                "time": "1969-12-31T18:00:00.000Z",
+                "elevation": null,
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.11474,
+                    36.62477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Miranda",
+                "time": "1969-12-31T18:00:00.000Z",
+                "elevation": null,
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.17164,
+                    36.60905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Miranda",
+                "time": "1969-12-31T18:00:00.000Z",
+                "elevation": null,
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.17164,
+                    36.60905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Baldy Mountain",
+                "elevation": "12441",
+                "marker-symbol": "triangle",
+		        "marker-color": "#27AE60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.21341,
+                    36.62943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Santa Claus Camp",
+                "time": "1969-12-31T18:00:00.000Z",
+                "elevation": null,
+                "symbol": "Waypoint"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.09105,
+                    36.59103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+            	"title": "Base Camp (Tent City)",
+                "description": "The base camp of Philmont Scout Ranch with three groupings of tents: trailbound; homebound; staff.",
+                "marker-symbol": "a",
+                "marker-color": "#34495E",
+                "elevation": "6691",
+                "water-source": "plumbing",
+                "facilities": "none",
+                "location-type": "base camp",
+                "program": "campfire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95904,
+                    36.45168
+                ]
+            }
+        }
+    ]
+}
