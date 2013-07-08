@@ -6,7 +6,7 @@
             "properties": {
                 "description": "Tent City",
                 "marker-symbol": "a",
-                "marker-color": "#191970",
+                "marker-color": "#34495E",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
