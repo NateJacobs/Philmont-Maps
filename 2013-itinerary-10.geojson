@@ -24,7 +24,7 @@
                 "description": "Bent Camp",
                 "elevation": null,
                 "marker-symbol": "1",
-                "marker-color": "#3498DB",
+                "marker-color": "#2980B9",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -41,7 +41,7 @@
                 "description": "Dan Beard",
                 "elevation": null,
                 "marker-symbol": "2",
-                "marker-color": "#3498DB",
+                "marker-color": "#2980B9",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -58,7 +58,7 @@
                 "description": "Seally Canyon Camp",
                 "elevation": null,
                 "marker-symbol": "3",
-                "marker-color": "#3498DB",
+                "marker-color": "#2980B9",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -75,7 +75,7 @@
                 "description": "Whiteman Vega",
                 "elevation": null,
                 "marker-symbol": "4",
-                "marker-color": "#3498DB",
+                "marker-color": "#2980B9",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -92,7 +92,7 @@
 		        "description": "Iris Park",
 		        "elevation" : 8530,
 		        "marker-symbol": "5",
-		        "marker-color": "#3498DB",
+		        "marker-color": "#2980B9",
 		        "symbol": "waypoint"
 	        },
 	        "geometry": {
