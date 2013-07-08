@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Tent City",
+                "marker-symbol": "a",
                 "marker-color": "#191970",
                 "elevation": null,
                 "symbol": "Waypoint"
