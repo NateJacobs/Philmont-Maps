@@ -20,7 +20,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Bent Camp",
-                "time": "1969-12-31T18:00:00.000Z",
+                "marker-symbol": "1",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
@@ -36,7 +36,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Dan Beard",
-                "time": "1969-12-31T18:00:00.000Z",
+                "marker-symbol": "2",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
@@ -52,7 +52,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Seally Canyon Camp",
-                "time": "1969-12-31T18:00:00.000Z",
+                "marker-symbol": "3",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Whiteman Vega",
-                "time": "1969-12-31T18:00:00.000Z",
+                "marker-symbol": "4",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
@@ -84,6 +84,7 @@
 	        "type": "Feature",
 	        "properties": {
 		        "description": "Iris Park",
+                        "marker-symbol": "5",
 		        "elevation" : 8530,
 		        "symbol": "waypoint"
 	        },
