@@ -166,7 +166,7 @@
                 "description": "Baldy Mountain",
                 "elevation": "12441",
                 "marker-symbol": "triangle",
-		        "marker-color": "#2980B9"
+		        "marker-color": "#27AE60"
             },
             "geometry": {
                 "type": "Point",
