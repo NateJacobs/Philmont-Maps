@@ -4,8 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "PHILMONPROPEBOUN",
-                "description": "Philmont Property Boundry"
+                "title": "Philmont Property Boundry",
+                "description": "The property line of Philmont Scout Reservation",
+                "url": "http://www.philmontscoutranch.org"
             },
             "geometry": {
                 "type": "LineString",
@@ -1100,8 +1101,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "CASADEGAVILABOUN",
-                "description": "Casa del Gavilan Boundary"
+                "title": "Casa del Gavilan Boundary",
+                "description": "The property line of Casa del Gavilan",
+                "url": "http://www.casadelgavilan.com"
             },
             "geometry": {
                 "type": "LineString",
@@ -1144,10 +1146,10 @@
         {
             "type": "Feature",
             "properties": {
-            	"name": "AbreuCamp",
+            	"title": "Abreu Camp",
                 "description": "Abreu Camp",
                 "elevation": "7185",
-                "symbol": "Waypoint"
+                "marker-symbol": "campsite"
             },
             "geometry": {
                 "type": "Point",
@@ -1160,9 +1162,10 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Administration",
-                "elevation": null,
-                "symbol": "Waypoint"
+            	"title": "Philmont Administration",
+                "description": "",
+                "elevation": "",
+                "marker-symbol": "building"
             },
             "geometry": {
                 "type": "Point",
@@ -1175,9 +1178,10 @@
         {
             "type": "Feature",
             "properties": {
+            	"title": "Agua Fria Camp",
                 "description": "Agua Fria Camp",
                 "elevation": "8720",
-                "symbol": "Waypoint"
+                "marker-symbol": "campsite"
             },
             "geometry": {
                 "type": "Point",
@@ -1190,9 +1194,10 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Aguila Camp",
+            	"title": "Aguila Camp",
+                "description": "",
                 "elevation": "8260",
-                "symbol": "Waypoint"
+                "marker-symbol": "campsite"
             },
             "geometry": {
                 "type": "Point",
