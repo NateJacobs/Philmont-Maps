@@ -3096,7 +3096,6 @@
             "type": "Feature",
             "properties": {
                 "description": "Tent City",
-                "time": "1969-12-31T18:00:00.000Z",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
