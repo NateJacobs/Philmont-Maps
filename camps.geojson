@@ -1145,7 +1145,7 @@
             "type": "Feature",
             "properties": {
             	"name": "AbreuCamp",
-                "description": "Abreu Camp"
+                "description": "Abreu Camp",
                 "elevation": null,
                 "symbol": "Waypoint"
             },
