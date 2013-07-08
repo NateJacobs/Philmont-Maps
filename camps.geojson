@@ -1146,7 +1146,7 @@
             "properties": {
             	"name": "AbreuCamp",
                 "description": "Abreu Camp",
-                "elevation": null,
+                "elevation": "7185",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -1176,8 +1176,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Agua Fria Camp",
-                "time": "1969-12-31T18:00:00.000Z",
-                "elevation": null,
+                "elevation": "8720",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -1192,8 +1191,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Aguila Camp",
-                "time": "1969-12-31T18:00:00.000Z",
-                "elevation": null,
+                "elevation": "8260",
                 "symbol": "Waypoint"
             },
             "geometry": {
@@ -1208,8 +1206,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Anasazi Camp",
-                "time": "1969-12-31T18:00:00.000Z",
-                "elevation": null,
+                "elevation": "7040",
                 "symbol": "Waypoint"
             },
             "geometry": {
