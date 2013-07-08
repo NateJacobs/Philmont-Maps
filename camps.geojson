@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "PHILMONPROPEBOUN",
-                "time": "1970-12-31T18:00:00Z"
+                "description": "Philmont Property Boundry"
             },
             "geometry": {
                 "type": "LineString",
@@ -1101,8 +1101,7 @@
             "type": "Feature",
             "properties": {
                 "name": "CASADEGAVILABOUN",
-                "desc": "Casa del Gavilan Boundary",
-                "time": "1970-12-31T18:00:00Z"
+                "description": "Casa del Gavilan Boundary"
             },
             "geometry": {
                 "type": "LineString",
@@ -1145,10 +1144,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Abreu Camp",
-                "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+            	"name": "AbreuCamp",
+                "description": "Abreu Camp"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1161,10 +1160,9 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Administration",
-                "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "description": "Administration",
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1177,10 +1175,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Agua Fria Camp",
+                "description": "Agua Fria Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1193,10 +1191,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Aguila Camp",
+                "description": "Aguila Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1209,10 +1207,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Anasazi Camp",
+                "description": "Anasazi Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,10 +1223,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Antelople Mesa",
+                "description": "Antelople Mesa",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2342.08",
-                "sym": "Waypoint"
+                "elevation": "2342.08",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1241,10 +1239,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Apache Peak",
+                "description": "Apache Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3008.99",
-                "sym": "Waypoint"
+                "elevation": "3008.99",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1257,10 +1255,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Apache Springs Camp",
+                "description": "Apache Springs Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1273,10 +1271,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Aspen Springs Camp",
+                "description": "Aspen Springs Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1289,10 +1287,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "B-24 Wing",
+                "description": "B-24 Wing",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1305,10 +1303,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Backache Springs Camp",
+                "description": "Backache Springs Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1321,10 +1319,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Baldy Mountain",
+                "description": "Baldy Mountain",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3792.02",
-                "sym": "Waypoint"
+                "elevation": "3792.02",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1337,10 +1335,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Baldy Skyline Camp",
+                "description": "Baldy Skyline Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1353,10 +1351,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Baldy Town",
+                "description": "Baldy Town",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1369,10 +1367,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Bear Canyon Camp",
+                "description": "Bear Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1385,10 +1383,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Bear Caves Camp",
+                "description": "Bear Caves Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1401,10 +1399,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Bear Mountain",
+                "description": "Bear Mountain",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3249.78",
-                "sym": "Waypoint"
+                "elevation": "3249.78",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1417,10 +1415,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Beaubien Camp",
+                "description": "Beaubien Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1433,10 +1431,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Bent Camp",
+                "description": "Bent Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1449,10 +1447,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Big Red",
+                "description": "Big Red",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3358.90",
-                "sym": "Waypoint"
+                "elevation": "3358.90",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1465,10 +1463,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Black Horse Camp",
+                "description": "Black Horse Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1481,10 +1479,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Black Jack's Hideout",
+                "description": "Black Jack's Hideout",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1497,10 +1495,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Black Jacks Camp",
+                "description": "Black Jacks Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1513,10 +1511,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Black Mountain",
+                "description": "Black Mountain",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3318.97",
-                "sym": "Waypoint"
+                "elevation": "3318.97",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,10 +1527,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Black Mountain Camp",
+                "description": "Black Mountain Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1545,10 +1543,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Bonito Peak",
+                "description": "Bonito Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3233.93",
-                "sym": "Waypoint"
+                "elevation": "3233.93",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1561,10 +1559,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Buck Creek Camp",
+                "description": "Buck Creek Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1577,10 +1575,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Buffalo Pasture",
+                "description": "Buffalo Pasture",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1593,10 +1591,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Burn Peak",
+                "description": "Burn Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3029.10",
-                "sym": "Waypoint"
+                "elevation": "3029.10",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1609,10 +1607,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Camping Headquarters",
+                "description": "Camping Headquarters",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1625,10 +1623,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Carson Meadows",
+                "description": "Carson Meadows",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1641,10 +1639,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Casa del Gavilan (Private)",
+                "description": "Casa del Gavilan (Private)",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1657,10 +1655,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cathedral Rock",
+                "description": "Cathedral Rock",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1673,10 +1671,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cathedral Rock Camp",
+                "description": "Cathedral Rock Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1689,10 +1687,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cattle Headquarters",
+                "description": "Cattle Headquarters",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1705,10 +1703,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cimarron",
+                "description": "Cimarron",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1721,10 +1719,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cimarron River Camp",
+                "description": "Cimarron River Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1737,10 +1735,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cimarroncito",
+                "description": "Cimarroncito",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1753,10 +1751,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cimarroncito Peak",
+                "description": "Cimarroncito Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3192.78",
-                "sym": "Waypoint"
+                "elevation": "3192.78",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1769,10 +1767,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cimarroncito Resevoir",
+                "description": "Cimarroncito Resevoir",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,10 +1783,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Clarks Fork",
+                "description": "Clarks Fork",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1801,10 +1799,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Clear Creek Camp",
+                "description": "Clear Creek Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1817,10 +1815,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Comanche Camp",
+                "description": "Comanche Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,10 +1831,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Comanche Pass",
+                "description": "Comanche Pass",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3061.72",
-                "sym": "Waypoint"
+                "elevation": "3061.72",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1849,10 +1847,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Comanche Peak",
+                "description": "Comanche Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3445.15",
-                "sym": "Waypoint"
+                "elevation": "3445.15",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1865,10 +1863,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Comanche Peak Camp",
+                "description": "Comanche Peak Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1881,10 +1879,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cook Canyon Camp",
+                "description": "Cook Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1897,10 +1895,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Copper Park Camp",
+                "description": "Copper Park Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1913,10 +1911,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cottonwood Camp",
+                "description": "Cottonwood Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1929,10 +1927,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Crags Camp",
+                "description": "Crags Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1945,10 +1943,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Crater Lake Camp",
+                "description": "Crater Lake Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1961,10 +1959,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Crater Peak",
+                "description": "Crater Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2971.19",
-                "sym": "Waypoint"
+                "elevation": "2971.19",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1977,10 +1975,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Crooked Creek Camp",
+                "description": "Crooked Creek Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -1993,10 +1991,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Cyphers Mine Camp",
+                "description": "Cyphers Mine Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2009,10 +2007,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Dan Beard",
+                "description": "Dan Beard",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2025,10 +2023,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Dean Cow",
+                "description": "Dean Cow",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2041,10 +2039,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Dean Cutoff Camp",
+                "description": "Dean Cutoff Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2057,10 +2055,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Deer Lake",
+                "description": "Deer Lake",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2073,10 +2071,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Deer Lake Camp",
+                "description": "Deer Lake Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2089,10 +2087,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Deer Lake Mesa Camp",
+                "description": "Deer Lake Mesa Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2105,10 +2103,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Devils Wash Basin Camp",
+                "description": "Devils Wash Basin Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2121,10 +2119,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Elkhorn Camp",
+                "description": "Elkhorn Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,10 +2135,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ewells Park Camp",
+                "description": "Ewells Park Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2153,10 +2151,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Fish Camp",
+                "description": "Fish Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2169,10 +2167,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Flume Canyon Camp",
+                "description": "Flume Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2185,10 +2183,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Fowler Pass",
+                "description": "Fowler Pass",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2800.81",
-                "sym": "Waypoint"
+                "elevation": "2800.81",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2201,10 +2199,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "French Henry",
+                "description": "French Henry",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2217,10 +2215,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Garcia Peak",
+                "description": "Garcia Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3329.94",
-                "sym": "Waypoint"
+                "elevation": "3329.94",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2233,10 +2231,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Greenwood Canyon Camp",
+                "description": "Greenwood Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2249,10 +2247,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Grizzly Tooth",
+                "description": "Grizzly Tooth",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2738.02",
-                "sym": "Waypoint"
+                "elevation": "2738.02",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2265,10 +2263,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Harlan",
+                "description": "Harlan",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2281,10 +2279,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Hart Peak",
+                "description": "Hart Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2430.78",
-                "sym": "Waypoint"
+                "elevation": "2430.78",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2297,10 +2295,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Head of Dean",
+                "description": "Head of Dean",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2313,10 +2311,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Heck Field",
+                "description": "Heck Field",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2329,10 +2327,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Horse Ridge",
+                "description": "Horse Ridge",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2345,10 +2343,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Hunting Lodge",
+                "description": "Hunting Lodge",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2361,10 +2359,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Indian Writings",
+                "description": "Indian Writings",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2377,10 +2375,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lamberts Mine Camp",
+                "description": "Lamberts Mine Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2393,10 +2391,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lookout Meadow Camp",
+                "description": "Lookout Meadow Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,10 +2407,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lookout Peak",
+                "description": "Lookout Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3024.23",
-                "sym": "Waypoint"
+                "elevation": "3024.23",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2425,10 +2423,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lost Cabin Camp",
+                "description": "Lost Cabin Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,10 +2439,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lovers Leap",
+                "description": "Lovers Leap",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2457,10 +2455,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lovers Leap Camp",
+                "description": "Lovers Leap Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2473,10 +2471,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lower Bonito Camp",
+                "description": "Lower Bonito Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2489,10 +2487,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Lower Sawmill Camp",
+                "description": "Lower Sawmill Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2505,10 +2503,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Maxwell Camp",
+                "description": "Maxwell Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2521,10 +2519,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "McBride Canyon Camp",
+                "description": "McBride Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2537,10 +2535,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Miners Park Camp",
+                "description": "Miners Park Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2553,10 +2551,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Miranda",
+                "description": "Miranda",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2569,10 +2567,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Mount Phillips",
+                "description": "Mount Phillips",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3577.13",
-                "sym": "Waypoint"
+                "elevation": "3577.13",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2585,10 +2583,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Mt Phillips Camp",
+                "description": "Mt Phillips Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2601,10 +2599,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "New Dean Camp",
+                "description": "New Dean Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2617,10 +2615,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "NM State Forestry Office",
+                "description": "NM State Forestry Office",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2633,10 +2631,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "North Fork Urraca Camp",
+                "description": "North Fork Urraca Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2649,10 +2647,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Old Abreu Camp",
+                "description": "Old Abreu Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2665,10 +2663,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Old Camp",
+                "description": "Old Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2681,10 +2679,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Olympia Camp",
+                "description": "Olympia Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2697,10 +2695,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Phillips Junction Commissary",
+                "description": "Phillips Junction Commissary",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2713,10 +2711,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ponderosa Park Camp",
+                "description": "Ponderosa Park Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2729,10 +2727,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ponil",
+                "description": "Ponil",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2745,10 +2743,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Procupine Camp",
+                "description": "Procupine Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2761,10 +2759,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Pueblano",
+                "description": "Pueblano",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2777,10 +2775,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Pueblano Ruins Camp",
+                "description": "Pueblano Ruins Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2793,10 +2791,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rayado",
+                "description": "Rayado",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2809,10 +2807,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rayado Peak",
+                "description": "Rayado Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2983.99",
-                "sym": "Waypoint"
+                "elevation": "2983.99",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2825,10 +2823,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rayado River Camp",
+                "description": "Rayado River Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2841,10 +2839,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Red Hills Camp",
+                "description": "Red Hills Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2857,10 +2855,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rich Cabins",
+                "description": "Rich Cabins",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2873,10 +2871,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rimrock Park Camp",
+                "description": "Rimrock Park Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2889,10 +2887,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ring Place",
+                "description": "Ring Place",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2905,10 +2903,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Rocky Mountain Scout Camp",
+                "description": "Rocky Mountain Scout Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2921,10 +2919,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Santa Claus Camp",
+                "description": "Santa Claus Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2937,10 +2935,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Sawmill",
+                "description": "Sawmill",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2953,10 +2951,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Seally Canyon Camp",
+                "description": "Seally Canyon Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2969,10 +2967,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Shaefers Pass Camp",
+                "description": "Shaefers Pass Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -2985,10 +2983,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Shaefers Peak",
+                "description": "Shaefers Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2869.08",
-                "sym": "Waypoint"
+                "elevation": "2869.08",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3001,10 +2999,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Sioux Camp",
+                "description": "Sioux Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3017,10 +3015,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Six Mile Gate",
+                "description": "Six Mile Gate",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,10 +3031,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Stockade",
+                "description": "Stockade",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3049,10 +3047,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Stockade Camp",
+                "description": "Stockade Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3065,10 +3063,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Stone Wall Pass",
+                "description": "Stone Wall Pass",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2408.83",
-                "sym": "Waypoint"
+                "elevation": "2408.83",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3081,10 +3079,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "T-Rex Track",
+                "description": "T-Rex Track",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3097,10 +3095,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Tent City",
+                "description": "Tent City",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3113,10 +3111,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Thunder Ridge Camp",
+                "description": "Thunder Ridge Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3129,10 +3127,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Tooth of Time",
+                "description": "Tooth of Time",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2744.11",
-                "sym": "Waypoint"
+                "elevation": "2744.11",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3145,10 +3143,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Tooth Ridge Camp",
+                "description": "Tooth Ridge Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3161,10 +3159,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Toothache Spring Camp",
+                "description": "Toothache Spring Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3177,10 +3175,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Touch-Me-Not Mountain",
+                "description": "Touch-Me-Not Mountain",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3672.84",
-                "sym": "Waypoint"
+                "elevation": "3672.84",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3193,10 +3191,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Trail Peak",
+                "description": "Trail Peak",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "3124.20",
-                "sym": "Waypoint"
+                "elevation": "3124.20",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3209,10 +3207,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Training Center",
+                "description": "Training Center",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3225,10 +3223,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Turkey Creek Camp",
+                "description": "Turkey Creek Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3241,10 +3239,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Upper Bench Camp",
+                "description": "Upper Bench Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3257,10 +3255,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Upper Clarks Fork Camp",
+                "description": "Upper Clarks Fork Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3273,10 +3271,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Upper Dean Cow Camp",
+                "description": "Upper Dean Cow Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3289,10 +3287,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Upper Sawmill Camp",
+                "description": "Upper Sawmill Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3305,10 +3303,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Urraca Camp",
+                "description": "Urraca Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3321,10 +3319,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ute Gulch Commissary",
+                "description": "Ute Gulch Commissary",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3337,10 +3335,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ute Meadows Camp",
+                "description": "Ute Meadows Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3353,10 +3351,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ute Park Pass",
+                "description": "Ute Park Pass",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3369,10 +3367,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Ute Springs Camp",
+                "description": "Ute Springs Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3385,10 +3383,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Vaca Camp",
+                "description": "Vaca Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3401,10 +3399,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Vaca Pond",
+                "description": "Vaca Pond",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3417,10 +3415,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Visto Grande Camp",
+                "description": "Visto Grande Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3433,10 +3431,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Webster Lake Camp",
+                "description": "Webster Lake Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,10 +3447,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Webster Parks Camp",
+                "description": "Webster Parks Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3465,10 +3463,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Webster Pass",
+                "description": "Webster Pass",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": "2892.25",
-                "sym": "Waypoint"
+                "elevation": "2892.25",
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3481,10 +3479,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Whiteman Vega",
+                "description": "Whiteman Vega",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3497,10 +3495,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Wild Horse Camp",
+                "description": "Wild Horse Camp",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3513,10 +3511,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Window Rock",
+                "description": "Window Rock",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
@@ -3529,10 +3527,10 @@
         {
             "type": "Feature",
             "properties": {
-                "desc": "Zastrow",
+                "description": "Zastrow",
                 "time": "1969-12-31T18:00:00.000Z",
-                "ele": null,
-                "sym": "Waypoint"
+                "elevation": null,
+                "symbol": "Waypoint"
             },
             "geometry": {
                 "type": "Point",
