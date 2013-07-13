@@ -1,0 +1,1909 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.036646,
+                    36.622267
+                ]
+            },
+            "properties": {
+                "name": "Ponil",
+                "description": "Ponil, FID: 0, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.119757,
+                    36.610217
+                ]
+            },
+            "properties": {
+                "name": "Head of Dean",
+                "description": "Head of Dean, FID: 1, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.114961,
+                    36.62489
+                ]
+            },
+            "properties": {
+                "name": "Pueblano",
+                "description": "Pueblano, FID: 2, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.134602,
+                    36.629064
+                ]
+            },
+            "properties": {
+                "name": "Pueblano Ruins",
+                "description": "Pueblano Ruins, FID: 3, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.173575,
+                    36.624855
+                ]
+            },
+            "properties": {
+                "name": "Ewells Park",
+                "description": "Ewells Park, FID: 4, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.184776,
+                    36.635757
+                ]
+            },
+            "properties": {
+                "name": "French Henry",
+                "description": "French Henry, FID: 5, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.202564,
+                    36.641876
+                ]
+            },
+            "properties": {
+                "name": "Copper Park",
+                "description": "Copper Park, FID: 6, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.191577,
+                    36.626392
+                ]
+            },
+            "properties": {
+                "name": "Baldy Town",
+                "description": "Baldy Town, FID: 7, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.179607,
+                    36.619327
+                ]
+            },
+            "properties": {
+                "name": "Ute Meadows",
+                "description": "Ute Meadows, FID: 8, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.170495,
+                    36.610385
+                ]
+            },
+            "properties": {
+                "name": "Miranda",
+                "description": "Miranda, FID: 9, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.153656,
+                    36.603853
+                ]
+            },
+            "properties": {
+                "name": "Maxwell",
+                "description": "Maxwell, FID: 10, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.094741,
+                    36.591388
+                ]
+            },
+            "properties": {
+                "name": "Santa Claus",
+                "description": "Santa Claus, FID: 11, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.088093,
+                    36.602777
+                ]
+            },
+            "properties": {
+                "name": "Upper Dean",
+                "description": "Upper Dean, FID: 12, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.048426,
+                    36.592868
+                ]
+            },
+            "properties": {
+                "name": "New Dean",
+                "description": "New Dean, FID: 13, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.976443,
+                    36.601346
+                ]
+            },
+            "properties": {
+                "name": "Anasazi",
+                "description": "Anasazi, FID: 14, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.995579,
+                    36.623966
+                ]
+            },
+            "properties": {
+                "name": "Indian Writings",
+                "description": "Indian Writings, FID: 15, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.028758,
+                    36.665003
+                ]
+            },
+            "properties": {
+                "name": "Old Camp",
+                "description": "Old Camp, FID: 16, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.065116,
+                    36.672235
+                ]
+            },
+            "properties": {
+                "name": "Cook Canyon",
+                "description": "Cook Canyon, FID: 17, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.088857,
+                    36.678005
+                ]
+            },
+            "properties": {
+                "name": "Dan Beard",
+                "description": "Dan Beard, FID: 18, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.998602,
+                    36.567167
+                ]
+            },
+            "properties": {
+                "name": "Dean Cow",
+                "description": "Dean Cow, FID: 19, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.188967,
+                    36.610567
+                ]
+            },
+            "properties": {
+                "name": "Black Horse",
+                "description": "Black Horse, FID: 20, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.085188,
+                    36.624481
+                ]
+            },
+            "properties": {
+                "name": "Flume Canyon",
+                "description": "Flume Canyon, FID: 21, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.993802,
+                    36.599375
+                ]
+            },
+            "properties": {
+                "name": "McBride Canyon",
+                "description": "McBride Canyon, FID: 22, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.064985,
+                    36.635251
+                ]
+            },
+            "properties": {
+                "name": "Bent",
+                "description": "Bent, FID: 23, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.048729,
+                    36.577264
+                ]
+            },
+            "properties": {
+                "name": "Black Jacks",
+                "description": "Black Jacks, FID: 24, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.021088,
+                    36.56482
+                ]
+            },
+            "properties": {
+                "name": "Turkey Creek",
+                "description": "Turkey Creek, FID: 25, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.05544,
+                    36.624712
+                ]
+            },
+            "properties": {
+                "name": "Sioux",
+                "description": "Sioux, FID: 26, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.998528,
+                    36.657522
+                ]
+            },
+            "properties": {
+                "name": "Cottonwood",
+                "description": "Cottonwood, FID: 27, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.084466,
+                    36.611838
+                ]
+            },
+            "properties": {
+                "name": "Elkhorn",
+                "description": "Elkhorn, FID: 28, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.051492,
+                    36.530309
+                ]
+            },
+            "properties": {
+                "name": "Deer Lake Mesa",
+                "description": "Deer Lake Mesa, FID: 29, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.066918,
+                    36.56332
+                ]
+            },
+            "properties": {
+                "name": "Cimarron River",
+                "description": "Cimarron River, FID: 30, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.068928,
+                    36.55629
+                ]
+            },
+            "properties": {
+                "name": "Visto Grande",
+                "description": "Visto Grande, FID: 31, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.057795,
+                    36.541207
+                ]
+            },
+            "properties": {
+                "name": "Upper Bench",
+                "description": "Upper Bench, FID: 32, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.14353,
+                    36.613579
+                ]
+            },
+            "properties": {
+                "name": "Baldy Skyline Camp",
+                "description": "Baldy Skyline Camp, FID: 33, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.058291,
+                    36.524518
+                ]
+            },
+            "properties": {
+                "name": "Devil's Wash Basin",
+                "description": "Devil's Wash Basin, FID: 34, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.076963,
+                    36.520055
+                ]
+            },
+            "properties": {
+                "name": "Lower Sawmill",
+                "description": "Lower Sawmill, FID: 35, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.09071,
+                    36.519441
+                ]
+            },
+            "properties": {
+                "name": "Upper Sawmill",
+                "description": "Upper Sawmill, FID: 36, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.078869,
+                    36.502792
+                ]
+            },
+            "properties": {
+                "name": "Webster Parks",
+                "description": "Webster Parks, FID: 37, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.062938,
+                    36.486602
+                ]
+            },
+            "properties": {
+                "name": "Hunting Lodge",
+                "description": "Hunting Lodge, FID: 38, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.047733,
+                    36.482795
+                ]
+            },
+            "properties": {
+                "name": "Cathedral Rock",
+                "description": "Cathedral Rock, FID: 39, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.02444,
+                    36.481949
+                ]
+            },
+            "properties": {
+                "name": "Webster Lake Camp",
+                "description": "Webster Lake Camp, FID: 40, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.026033,
+                    36.508482
+                ]
+            },
+            "properties": {
+                "name": "Deer Lake",
+                "description": "Deer Lake, FID: 41, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.010964,
+                    36.515372
+                ]
+            },
+            "properties": {
+                "name": "Vaca",
+                "description": "Vaca, FID: 42, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.017823,
+                    36.51619
+                ]
+            },
+            "properties": {
+                "name": "Harlan",
+                "description": "Harlan, FID: 43, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.997868,
+                    36.450803
+                ]
+            },
+            "properties": {
+                "name": "Tooth Ridge Camp",
+                "description": "Tooth Ridge Camp, FID: 44, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.045192,
+                    36.449573
+                ]
+            },
+            "properties": {
+                "name": "Shaefers Pass",
+                "description": "Shaefers Pass, FID: 45, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.04846,
+                    36.46907
+                ]
+            },
+            "properties": {
+                "name": "Clarks Fork",
+                "description": "Clarks Fork, FID: 46, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.049618,
+                    36.459739
+                ]
+            },
+            "properties": {
+                "name": "Upper Clarks Fork",
+                "description": "Upper Clarks Fork, FID: 47, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.04669,
+                    36.459172
+                ]
+            },
+            "properties": {
+                "name": "Ponderosa Park",
+                "description": "Ponderosa Park, FID: 48, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.990911,
+                    36.409425
+                ]
+            },
+            "properties": {
+                "name": "Urraca",
+                "description": "Urraca, FID: 49, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.023828,
+                    36.399452
+                ]
+            },
+            "properties": {
+                "name": "Aguila",
+                "description": "Aguila, FID: 50, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.033488,
+                    36.405117
+                ]
+            },
+            "properties": {
+                "name": "Bear Caves",
+                "description": "Bear Caves, FID: 51, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.043101,
+                    36.436326
+                ]
+            },
+            "properties": {
+                "name": "North Fork Urraca",
+                "description": "North Fork Urraca, FID: 52, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.041315,
+                    36.42572
+                ]
+            },
+            "properties": {
+                "name": "Miners Park",
+                "description": "Miners Park, FID: 53, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.049226,
+                    36.405819
+                ]
+            },
+            "properties": {
+                "name": "Crater Lake",
+                "description": "Crater Lake, FID: 54, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.968958,
+                    36.372009
+                ]
+            },
+            "properties": {
+                "name": "Olympia",
+                "description": "Olympia, FID: 55, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.992043,
+                    36.400692
+                ]
+            },
+            "properties": {
+                "name": "Toothache Springs",
+                "description": "Toothache Springs, FID: 56, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.976497,
+                    36.393316
+                ]
+            },
+            "properties": {
+                "name": "Backache Springs",
+                "description": "Backache Springs, FID: 57, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.995363,
+                    36.377662
+                ]
+            },
+            "properties": {
+                "name": "Zastrow",
+                "description": "Zastrow, FID: 58, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.025895,
+                    36.376735
+                ]
+            },
+            "properties": {
+                "name": "Old Abreu",
+                "description": "Old Abreu, FID: 59, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.007997,
+                    36.375836
+                ]
+            },
+            "properties": {
+                "name": "Rayado River",
+                "description": "Rayado River, FID: 60, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.015702,
+                    36.379503
+                ]
+            },
+            "properties": {
+                "name": "Abreu",
+                "description": "Abreu, FID: 61, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.102501,
+                    36.387803
+                ]
+            },
+            "properties": {
+                "name": "Fish Camp",
+                "description": "Fish Camp, FID: 62, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.136494,
+                    36.384153
+                ]
+            },
+            "properties": {
+                "name": "Lost Cabin",
+                "description": "Lost Cabin, FID: 63, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.144071,
+                    36.387558
+                ]
+            },
+            "properties": {
+                "name": "Apache Springs",
+                "description": "Apache Springs, FID: 64, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.123606,
+                    36.384075
+                ]
+            },
+            "properties": {
+                "name": "Agua Fria",
+                "description": "Agua Fria, FID: 65, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.130751,
+                    36.411221
+                ]
+            },
+            "properties": {
+                "name": "Buck Creek",
+                "description": "Buck Creek, FID: 66, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.134601,
+                    36.398639
+                ]
+            },
+            "properties": {
+                "name": "Bear Canyon",
+                "description": "Bear Canyon, FID: 67, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.129553,
+                    36.422095
+                ]
+            },
+            "properties": {
+                "name": "Porcupine",
+                "description": "Porcupine, FID: 68, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.146713,
+                    36.424278
+                ]
+            },
+            "properties": {
+                "name": "Crooked Creek",
+                "description": "Crooked Creek, FID: 69, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.157354,
+                    36.441073
+                ]
+            },
+            "properties": {
+                "name": "Comanche Camp",
+                "description": "Comanche Camp, FID: 70, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.185102,
+                    36.472285
+                ]
+            },
+            "properties": {
+                "name": "Clear Creek",
+                "description": "Clear Creek, FID: 71, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.156272,
+                    36.475768
+                ]
+            },
+            "properties": {
+                "name": "Mount Phillips Camp",
+                "description": "Mount Phillips Camp, FID: 72, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.132158,
+                    36.487324
+                ]
+            },
+            "properties": {
+                "name": "Thunder Ridge",
+                "description": "Thunder Ridge, FID: 73, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.139234,
+                    36.465938
+                ]
+            },
+            "properties": {
+                "name": "Red Hills",
+                "description": "Red Hills, FID: 74, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.138577,
+                    36.480663
+                ]
+            },
+            "properties": {
+                "name": "Comanche Peak Camp",
+                "description": "Comanche Peak Camp, FID: 75, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.116141,
+                    36.484712
+                ]
+            },
+            "properties": {
+                "name": "Cyphers Mine",
+                "description": "Cyphers Mine, FID: 76, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.10873,
+                    36.478545
+                ]
+            },
+            "properties": {
+                "name": "Lamberts Mine",
+                "description": "Lamberts Mine, FID: 77, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.059732,
+                    36.516747
+                ]
+            },
+            "properties": {
+                "name": "Ute Gulch",
+                "description": "Ute Gulch, FID: 78, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.06508,
+                    36.498934
+                ]
+            },
+            "properties": {
+                "name": "Cimarroncito",
+                "description": "Cimarroncito, FID: 79, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.054187,
+                    36.505783
+                ]
+            },
+            "properties": {
+                "name": "Ute Springs",
+                "description": "Ute Springs, FID: 80, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.061382,
+                    36.50328
+                ]
+            },
+            "properties": {
+                "name": "Aspen Springs",
+                "description": "Aspen Springs, FID: 81, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.070056,
+                    36.381675
+                ]
+            },
+            "properties": {
+                "name": "Lookout Meadow",
+                "description": "Lookout Meadow, FID: 82, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.062279,
+                    36.367064
+                ]
+            },
+            "properties": {
+                "name": "Crags",
+                "description": "Crags, FID: 83, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.103104,
+                    36.423643
+                ]
+            },
+            "properties": {
+                "name": "Beaubien",
+                "description": "Beaubien, FID: 84, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.071645,
+                    36.393021
+                ]
+            },
+            "properties": {
+                "name": "Lower Bonita",
+                "description": "Lower Bonita, FID: 85, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.093133,
+                    36.442292
+                ]
+            },
+            "properties": {
+                "name": "Black Mountain Camp",
+                "description": "Black Mountain Camp, FID: 86, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.01709,
+                    36.375856
+                ]
+            },
+            "properties": {
+                "name": "Rimrock Park",
+                "description": "Rimrock Park, FID: 87, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.013919,
+                    36.420758
+                ]
+            },
+            "properties": {
+                "name": "Lovers Leap",
+                "description": "Lovers Leap, FID: 88, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.111149,
+                    36.515709
+                ]
+            },
+            "properties": {
+                "name": "Sawmill",
+                "description": "Sawmill, FID: 89, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.118015,
+                    36.41583
+                ]
+            },
+            "properties": {
+                "name": "Phillips Junction",
+                "description": "Phillips Junction, FID: 90, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.049778,
+                    36.616589
+                ]
+            },
+            "properties": {
+                "name": "Dean Cuttoff",
+                "description": "Dean Cuttoff, FID: 91, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.176339,
+                    36.440976
+                ]
+            },
+            "properties": {
+                "name": "Wild Horse",
+                "description": "Wild Horse, FID: 92, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.023813,
+                    36.368595
+                ]
+            },
+            "properties": {
+                "name": "Carson Meadows",
+                "description": "Carson Meadows, FID: 93, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.115946,
+                    36.67044
+                ]
+            },
+            "properties": {
+                "name": "Rich Cabins",
+                "description": "Rich Cabins, FID: 94, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.100733,
+                    36.752272
+                ]
+            },
+            "properties": {
+                "name": "Seally Canyon",
+                "description": "Seally Canyon, FID: 95, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.102593,
+                    36.793763
+                ]
+            },
+            "properties": {
+                "name": "Whiteman Vega",
+                "description": "Whiteman Vega, FID: 96, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.122313,
+                    36.77187
+                ]
+            },
+            "properties": {
+                "name": "Ring Place",
+                "description": "Ring Place, FID: 97, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.218764,
+                    36.780281
+                ]
+            },
+            "properties": {
+                "name": "Shuree Cabin",
+                "description": "Shuree Cabin, FID: 98, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.181977,
+                    36.697186
+                ]
+            },
+            "properties": {
+                "name": "Greenwood Canyon Camp",
+                "description": "Greenwood Canyon Camp, FID: 99, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.157163,
+                    36.728032
+                ]
+            },
+            "properties": {
+                "name": "Iris Park",
+                "description": "Iris Park, FID: 100, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.967299,
+                    36.60595
+                ]
+            },
+            "properties": {
+                "name": "House Canyon",
+                "description": "House Canyon, FID: 101, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.929958,
+                    36.366907
+                ]
+            },
+            "properties": {
+                "name": "Rayado",
+                "description": "Rayado, FID: 102, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.226007,
+                    36.675808
+                ]
+            },
+            "properties": {
+                "name": "Upper Greenwood Canyon",
+                "description": "Upper Greenwood Canyon, FID: 103, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.222962,
+                    36.833497
+                ]
+            },
+            "properties": {
+                "name": "Little Costilla",
+                "description": "Little Costilla, FID: 104, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.119605,
+                    36.727637
+                ]
+            },
+            "properties": {
+                "name": "Beatty Lakes",
+                "description": "Beatty Lakes, FID: 105, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.028043,
+                    36.613041
+                ]
+            },
+            "properties": {
+                "name": "Ponil Turnaround",
+                "description": "Ponil Turnaround, FID: 106, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.964286,
+                    36.587035
+                ]
+            },
+            "properties": {
+                "name": "Six Mile Gate",
+                "description": "Six Mile Gate, FID: 107, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.15016,
+                    36.603887
+                ]
+            },
+            "properties": {
+                "name": "Maxwell Turnaround",
+                "description": "Maxwell Turnaround, FID: 108, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.054733,
+                    36.565298
+                ]
+            },
+            "properties": {
+                "name": "Bear Canyon Turnaround",
+                "description": "Bear Canyon Turnaround, FID: 109, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.981454,
+                    36.520912
+                ]
+            },
+            "properties": {
+                "name": "Turkey Creek Turnaround",
+                "description": "Turkey Creek Turnaround, FID: 110, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.960197,
+                    36.453495
+                ]
+            },
+            "properties": {
+                "name": "Base Camp",
+                "description": "Base Camp, FID: 111, Type: Staffed Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.99382,
+                    36.433992
+                ]
+            },
+            "properties": {
+                "name": "Lovers Leap Turnaround",
+                "description": "Lovers Leap Turnaround, FID: 112, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.985966,
+                    36.380707
+                ]
+            },
+            "properties": {
+                "name": "Zastrow Turnaround",
+                "description": "Zastrow Turnaround, FID: 113, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.067321,
+                    36.407428
+                ]
+            },
+            "properties": {
+                "name": "Trail Peak",
+                "description": "Trail Peak, FID: 114, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.085657,
+                    36.388312
+                ]
+            },
+            "properties": {
+                "name": "Lookout Peak",
+                "description": "Lookout Peak, FID: 115, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.159523,
+                    36.476634
+                ]
+            },
+            "properties": {
+                "name": "Mount Phillips",
+                "description": "Mount Phillips, FID: 116, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.143671,
+                    36.479771
+                ]
+            },
+            "properties": {
+                "name": "Comanche Peak",
+                "description": "Comanche Peak, FID: 117, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.131461,
+                    36.464168
+                ]
+            },
+            "properties": {
+                "name": "Big Red",
+                "description": "Big Red, FID: 118, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.116861,
+                    36.444215
+                ]
+            },
+            "properties": {
+                "name": "Bonito Peak",
+                "description": "Bonito Peak, FID: 119, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.082127,
+                    36.449607
+                ]
+            },
+            "properties": {
+                "name": "Black Mountain",
+                "description": "Black Mountain, FID: 120, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.037205,
+                    36.450461
+                ]
+            },
+            "properties": {
+                "name": "Shaefers Peak",
+                "description": "Shaefers Peak, FID: 121, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.008103,
+                    36.447929
+                ]
+            },
+            "properties": {
+                "name": "Tooth Of Time",
+                "description": "Tooth Of Time, FID: 122, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.14735,
+                    36.805461
+                ]
+            },
+            "properties": {
+                "name": "McCrystal Creek",
+                "description": "McCrystal Creek, FID: 123, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.026667,
+                    36.482897
+                ]
+            },
+            "properties": {
+                "name": "Cimarroncito Turnaround",
+                "description": "Cimarroncito Turnaround, FID: 124, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.02389,
+                    36.627969
+                ]
+            },
+            "properties": {
+                "name": "Hart Peak",
+                "description": "Hart Peak, FID: 125, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.212833,
+                    36.6303
+                ]
+            },
+            "properties": {
+                "name": "Baldy Mountain",
+                "description": "Baldy Mountain, FID: 126, Type: Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.008668,
+                    36.594613
+                ]
+            },
+            "properties": {
+                "name": "Trail Canyon",
+                "description": "Trail Canyon, FID: 127, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.010272,
+                    36.598296
+                ]
+            },
+            "properties": {
+                "name": "Trail Canyon Turnaround",
+                "description": "Trail Canyon Turnaround, FID: 128, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.972437,
+                    36.572163
+                ]
+            },
+            "properties": {
+                "name": "Campos Heck",
+                "description": "Campos Heck, FID: 129, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.973092,
+                    36.533499
+                ]
+            },
+            "properties": {
+                "name": "Slate Hill Heck",
+                "description": "Slate Hill Heck, FID: 130, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.950706,
+                    36.545058
+                ]
+            },
+            "properties": {
+                "name": "Dean Heck",
+                "description": "Dean Heck, FID: 131, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.935573,
+                    36.512468
+                ]
+            },
+            "properties": {
+                "name": "Heck Turnaround",
+                "description": "Heck Turnaround, FID: 132, Type: Turnaround"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.034969,
+                    36.535378
+                ]
+            },
+            "properties": {
+                "name": "Martinez Springs",
+                "description": "Martinez Springs, FID: 133, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.037573,
+                    36.509465
+                ]
+            },
+            "properties": {
+                "name": "Lost Gap",
+                "description": "Lost Gap, FID: 134, Type: Trail Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.008456,
+                    36.438022
+                ]
+            },
+            "properties": {
+                "name": "Stockade Ridge",
+                "description": "Stockade Ridge, FID: 135, Type: Trail Camp"
+            }
+        }
+    ]
+}
