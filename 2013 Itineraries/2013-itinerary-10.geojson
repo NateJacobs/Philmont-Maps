@@ -47,7 +47,7 @@
                 "marker-color": "#2980B9",
                 "location-type": "turnaround",
                 "fid": "106"
-            }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
