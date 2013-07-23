@@ -11,8 +11,14 @@
                 ]
             },
             "properties": {
-                "name": "Ponil",
-                "description": "Ponil, FID: 0, Type: Staffed Camp"
+                "title": "Ponil",
+                "name": "ponil",
+                "description": "",
+                "fid": "0",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -25,8 +31,14 @@
                 ]
             },
             "properties": {
-                "name": "Head of Dean",
-                "description": "Head of Dean, FID: 1, Type: Staffed Camp"
+                "title": "Head of Dean",
+                "name": "head-of-dean",
+                "description": "",
+                "fid": "1",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -39,8 +51,14 @@
                 ]
             },
             "properties": {
-                "name": "Pueblano",
-                "description": "Pueblano, FID: 2, Type: Staffed Camp"
+                "title": "Pueblano",
+                "name": "pueblano",
+                "description": "",
+                "fid": "2",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -53,8 +71,14 @@
                 ]
             },
             "properties": {
-                "name": "Pueblano Ruins",
-                "description": "Pueblano Ruins, FID: 3, Type: Trail Camp"
+                "title": "Pueblano Ruins",
+                "name": "pueblano-ruins",
+                "description": "",
+                "fid": "3",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -67,8 +91,14 @@
                 ]
             },
             "properties": {
-                "name": "Ewells Park",
-                "description": "Ewells Park, FID: 4, Type: Trail Camp"
+                "title": "Ewells Park",
+                "name": "ewells-park",
+                "description": "",
+                "fid": "4",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -81,8 +111,14 @@
                 ]
             },
             "properties": {
-                "name": "French Henry",
-                "description": "French Henry, FID: 5, Type: Staffed Camp"
+                "title": "French Henry",
+                "name": "french-henry",
+                "description": "",
+                "fid": "5",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -95,8 +131,14 @@
                 ]
             },
             "properties": {
-                "name": "Copper Park",
-                "description": "Copper Park, FID: 6, Type: Trail Camp"
+                "title": "Copper Park",
+                "name": "copper-park",
+                "description": "",
+                "fid": "6",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -109,8 +151,14 @@
                 ]
             },
             "properties": {
-                "name": "Baldy Town",
-                "description": "Baldy Town, FID: 7, Type: Staffed Camp"
+                "title": "Baldy Town",
+                "name": "baldy-town",
+                "description": "",
+                "fid": "7",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -123,8 +171,14 @@
                 ]
             },
             "properties": {
-                "name": "Ute Meadows",
-                "description": "Ute Meadows, FID: 8, Type: Trail Camp"
+                "title": "Ute Meadows",
+                "name": "ute-meadows",
+                "description": "",
+                "fid": "8",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -137,8 +191,14 @@
                 ]
             },
             "properties": {
-                "name": "Miranda",
-                "description": "Miranda, FID: 9, Type: Staffed Camp"
+                "title": "Miranda",
+                "name": "miranda",
+                "description": "",
+                "fid": "9",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -151,8 +211,14 @@
                 ]
             },
             "properties": {
-                "name": "Maxwell",
-                "description": "Maxwell, FID: 10, Type: Trail Camp"
+                "title": "Maxwell",
+                "name": "maxwell",
+                "description": "",
+                "fid": "10",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -165,8 +231,14 @@
                 ]
             },
             "properties": {
-                "name": "Santa Claus",
-                "description": "Santa Claus, FID: 11, Type: Trail Camp"
+                "title": "Santa Claus",
+                "name": "santa-claus",
+                "description": "",
+                "fid": "11",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -179,8 +251,14 @@
                 ]
             },
             "properties": {
-                "name": "Upper Dean",
-                "description": "Upper Dean, FID: 12, Type: Trail Camp"
+                "title": "Upper Dean",
+                "name": "upper-dean",
+                "description": "",
+                "fid": "12",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -193,8 +271,14 @@
                 ]
             },
             "properties": {
-                "name": "New Dean",
-                "description": "New Dean, FID: 13, Type: Trail Camp"
+                "title": "New Dean",
+                "name": "new-dean",
+                "description": "",
+                "fid": "13",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -207,8 +291,14 @@
                 ]
             },
             "properties": {
-                "name": "Anasazi",
-                "description": "Anasazi, FID: 14, Type: Trail Camp"
+                "title": "Anasazi",
+                "name": "anasazi",
+                "description": "",
+                "fid": "14",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -221,8 +311,14 @@
                 ]
             },
             "properties": {
-                "name": "Indian Writings",
-                "description": "Indian Writings, FID: 15, Type: Staffed Camp"
+                "title": "Indian Writings",
+                "name": "indian-writings",
+                "description": "",
+                "fid": "15",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -235,8 +331,14 @@
                 ]
             },
             "properties": {
-                "name": "Old Camp",
-                "description": "Old Camp, FID: 16, Type: Trail Camp"
+                "title": "Old Camp",
+                "name": "old-camp",
+                "description": "",
+                "fid": "16",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -249,8 +351,14 @@
                 ]
             },
             "properties": {
-                "name": "Cook Canyon",
-                "description": "Cook Canyon, FID: 17, Type: Trail Camp"
+                "title": "Cook Canyon",
+                "name": "cook-canyon",
+                "description": "",
+                "fid": "17",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -263,8 +371,14 @@
                 ]
             },
             "properties": {
-                "name": "Dan Beard",
-                "description": "Dan Beard, FID: 18, Type: Staffed Camp"
+                "title": "Dan Beard",
+                "name": "dan-beard",
+                "description": "",
+                "fid": "18",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -277,8 +391,14 @@
                 ]
             },
             "properties": {
-                "name": "Dean Cow",
-                "description": "Dean Cow, FID: 19, Type: Staffed Camp"
+                "title": "Dean Cow",
+                "name": "dean-cow",
+                "description": "",
+                "fid": "19",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -291,8 +411,14 @@
                 ]
             },
             "properties": {
-                "name": "Black Horse",
-                "description": "Black Horse, FID: 20, Type: Trail Camp"
+                "title": "Black Horse",
+                "name": "black-horse",
+                "description": "",
+                "fid": "20",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -305,8 +431,14 @@
                 ]
             },
             "properties": {
-                "name": "Flume Canyon",
-                "description": "Flume Canyon, FID: 21, Type: Trail Camp"
+                "title": "Flume Canyon",
+                "name": "flume-canyon",
+                "description": "",
+                "fid": "21",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -319,8 +451,14 @@
                 ]
             },
             "properties": {
-                "name": "McBride Canyon",
-                "description": "McBride Canyon, FID: 22, Type: Trail Camp"
+                "title": "McBride Canyon",
+                "name": "mcbride-canyon",
+                "description": "",
+                "fid": "22",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -333,8 +471,14 @@
                 ]
             },
             "properties": {
-                "name": "Bent",
-                "description": "Bent, FID: 23, Type: Trail Camp"
+                "title": "Bent",
+                "name": "bent",
+                "description": "",
+                "fid": "23",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -347,8 +491,14 @@
                 ]
             },
             "properties": {
-                "name": "Black Jacks",
-                "description": "Black Jacks, FID: 24, Type: Trail Camp"
+                "title": "Black Jacks",
+                "name": "black-jacks",
+                "description": "",
+                "fid": "24",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -361,8 +511,14 @@
                 ]
             },
             "properties": {
-                "name": "Turkey Creek",
-                "description": "Turkey Creek, FID: 25, Type: Trail Camp"
+                "title": "Turkey Creek",
+                "name": "turkey-creek",
+                "description": "",
+                "fid": "25",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -375,8 +531,14 @@
                 ]
             },
             "properties": {
-                "name": "Sioux",
-                "description": "Sioux, FID: 26, Type: Trail Camp"
+                "title": "Sioux",
+                "name": "sioux",
+                "description": "",
+                "fid": "26",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -389,8 +551,14 @@
                 ]
             },
             "properties": {
-                "name": "Cottonwood",
-                "description": "Cottonwood, FID: 27, Type: Trail Camp"
+                "title": "Cottonwood",
+                "name": "cottonwood",
+                "description": "",
+                "fid": "27",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -403,8 +571,14 @@
                 ]
             },
             "properties": {
-                "name": "Elkhorn",
-                "description": "Elkhorn, FID: 28, Type: Trail Camp"
+                "title": "Elkhorn",
+                "name": "elkhorn",
+                "description": "",
+                "fid": "28",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -417,8 +591,14 @@
                 ]
             },
             "properties": {
-                "name": "Deer Lake Mesa",
-                "description": "Deer Lake Mesa, FID: 29, Type: Trail Camp"
+                "title": "Deer Lake Mesa",
+                "name": "deer-lake-mesa",
+                "description": "",
+                "fid": "29",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -431,8 +611,14 @@
                 ]
             },
             "properties": {
-                "name": "Cimarron River",
-                "description": "Cimarron River, FID: 30, Type: Trail Camp"
+                "title": "Cimarron River",
+                "name": "cimarron-river",
+                "description": "",
+                "fid": "30",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -445,8 +631,14 @@
                 ]
             },
             "properties": {
-                "name": "Visto Grande",
-                "description": "Visto Grande, FID: 31, Type: Trail Camp"
+                "title": "Visto Grande",
+                "name": "visto-grande",
+                "description": "",
+                "fid": "31",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -459,8 +651,14 @@
                 ]
             },
             "properties": {
-                "name": "Upper Bench",
-                "description": "Upper Bench, FID: 32, Type: Trail Camp"
+                "title": "Upper Bench",
+                "name": "upper-bench",
+                "description": "",
+                "fid": "32",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -473,8 +671,14 @@
                 ]
             },
             "properties": {
-                "name": "Baldy Skyline Camp",
-                "description": "Baldy Skyline Camp, FID: 33, Type: Trail Camp"
+                "title": "Baldy Skyline Camp",
+                "name": "baldy-skyline-camp",
+                "description": "",
+                "fid": "33",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -487,8 +691,14 @@
                 ]
             },
             "properties": {
-                "name": "Devil's Wash Basin",
-                "description": "Devil's Wash Basin, FID: 34, Type: Trail Camp"
+                "title": "Devil's Wash Basin",
+                "name": "devil's-wash-basin",
+                "description": "",
+                "fid": "34",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -501,8 +711,14 @@
                 ]
             },
             "properties": {
-                "name": "Lower Sawmill",
-                "description": "Lower Sawmill, FID: 35, Type: Trail Camp"
+                "title": "Lower Sawmill",
+                "name": "lower-sawmill",
+                "description": "",
+                "fid": "35",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -515,8 +731,14 @@
                 ]
             },
             "properties": {
-                "name": "Upper Sawmill",
-                "description": "Upper Sawmill, FID: 36, Type: Trail Camp"
+                "title": "Upper Sawmill",
+                "name": "upper-sawmill",
+                "description": "",
+                "fid": "36",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -529,8 +751,14 @@
                 ]
             },
             "properties": {
-                "name": "Webster Parks",
-                "description": "Webster Parks, FID: 37, Type: Trail Camp"
+                "title": "Webster Parks",
+                "name": "webster-parks",
+                "description": "",
+                "fid": "37",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -543,8 +771,14 @@
                 ]
             },
             "properties": {
-                "name": "Hunting Lodge",
-                "description": "Hunting Lodge, FID: 38, Type: Staffed Camp"
+                "title": "Hunting Lodge",
+                "name": "hunting-lodge",
+                "description": "",
+                "fid": "38",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -557,8 +791,14 @@
                 ]
             },
             "properties": {
-                "name": "Cathedral Rock",
-                "description": "Cathedral Rock, FID: 39, Type: Trail Camp"
+                "title": "Cathedral Rock",
+                "name": "cathedral-rock",
+                "description": "",
+                "fid": "39",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -571,8 +811,14 @@
                 ]
             },
             "properties": {
-                "name": "Webster Lake Camp",
-                "description": "Webster Lake Camp, FID: 40, Type: Trail Camp"
+                "title": "Webster Lake Camp",
+                "name": "webster-lake-camp",
+                "description": "",
+                "fid": "40",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -585,8 +831,14 @@
                 ]
             },
             "properties": {
-                "name": "Deer Lake",
-                "description": "Deer Lake, FID: 41, Type: Trail Camp"
+                "title": "Deer Lake",
+                "name": "deer-lake",
+                "description": "",
+                "fid": "41",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -599,8 +851,14 @@
                 ]
             },
             "properties": {
-                "name": "Vaca",
-                "description": "Vaca, FID: 42, Type: Trail Camp"
+                "title": "Vaca",
+                "name": "vaca",
+                "description": "",
+                "fid": "42",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -613,8 +871,14 @@
                 ]
             },
             "properties": {
-                "name": "Harlan",
-                "description": "Harlan, FID: 43, Type: Staffed Camp"
+                "title": "Harlan",
+                "name": "harlan",
+                "description": "",
+                "fid": "43",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -627,8 +891,14 @@
                 ]
             },
             "properties": {
-                "name": "Tooth Ridge Camp",
-                "description": "Tooth Ridge Camp, FID: 44, Type: Trail Camp"
+                "title": "Tooth Ridge Camp",
+                "name": "tooth-ridge-camp",
+                "description": "",
+                "fid": "44",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -641,8 +911,14 @@
                 ]
             },
             "properties": {
-                "name": "Shaefers Pass",
-                "description": "Shaefers Pass, FID: 45, Type: Trail Camp"
+                "title": "Shaefers Pass",
+                "name": "shaefers-pass",
+                "description": "",
+                "fid": "45",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -655,8 +931,14 @@
                 ]
             },
             "properties": {
-                "name": "Clarks Fork",
-                "description": "Clarks Fork, FID: 46, Type: Staffed Camp"
+                "title": "Clarks Fork",
+                "name": "clarks-fork",
+                "description": "",
+                "fid": "46",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -669,8 +951,14 @@
                 ]
             },
             "properties": {
-                "name": "Upper Clarks Fork",
-                "description": "Upper Clarks Fork, FID: 47, Type: Trail Camp"
+                "title": "Upper Clarks Fork",
+                "name": "upper-clarks-fork",
+                "description": "",
+                "fid": "47",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -683,8 +971,14 @@
                 ]
             },
             "properties": {
-                "name": "Ponderosa Park",
-                "description": "Ponderosa Park, FID: 48, Type: Trail Camp"
+                "title": "Ponderosa Park",
+                "name": "ponderosa-park",
+                "description": "",
+                "fid": "48",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -697,8 +991,14 @@
                 ]
             },
             "properties": {
-                "name": "Urraca",
-                "description": "Urraca, FID: 49, Type: Staffed Camp"
+                "title": "Urraca",
+                "name": "urraca",
+                "description": "",
+                "fid": "49",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -711,8 +1011,14 @@
                 ]
             },
             "properties": {
-                "name": "Aguila",
-                "description": "Aguila, FID: 50, Type: Trail Camp"
+                "title": "Aguila",
+                "name": "aguila",
+                "description": "",
+                "fid": "50",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -725,8 +1031,14 @@
                 ]
             },
             "properties": {
-                "name": "Bear Caves",
-                "description": "Bear Caves, FID: 51, Type: Trail Camp"
+                "title": "Bear Caves",
+                "name": "bear-caves",
+                "description": "",
+                "fid": "51",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -739,8 +1051,14 @@
                 ]
             },
             "properties": {
-                "name": "North Fork Urraca",
-                "description": "North Fork Urraca, FID: 52, Type: Trail Camp"
+                "title": "North Fork Urraca",
+                "name": "north-fork-urraca",
+                "description": "",
+                "fid": "52",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -753,8 +1071,14 @@
                 ]
             },
             "properties": {
-                "name": "Miners Park",
-                "description": "Miners Park, FID: 53, Type: Staffed Camp"
+                "title": "Miners Park",
+                "name": "miners-park",
+                "description": "",
+                "fid": "53",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -767,8 +1091,14 @@
                 ]
             },
             "properties": {
-                "name": "Crater Lake",
-                "description": "Crater Lake, FID: 54, Type: Staffed Camp"
+                "title": "Crater Lake",
+                "name": "crater-lake",
+                "description": "",
+                "fid": "54",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -781,8 +1111,14 @@
                 ]
             },
             "properties": {
-                "name": "Olympia",
-                "description": "Olympia, FID: 55, Type: Trail Camp"
+                "title": "Olympia",
+                "name": "olympia",
+                "description": "",
+                "fid": "55",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -795,8 +1131,14 @@
                 ]
             },
             "properties": {
-                "name": "Toothache Springs",
-                "description": "Toothache Springs, FID: 56, Type: Trail Camp"
+                "title": "Toothache Springs",
+                "name": "toothache-springs",
+                "description": "",
+                "fid": "56",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -809,8 +1151,14 @@
                 ]
             },
             "properties": {
-                "name": "Backache Springs",
-                "description": "Backache Springs, FID: 57, Type: Trail Camp"
+                "title": "Backache Springs",
+                "name": "backache-springs",
+                "description": "",
+                "fid": "57",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -823,8 +1171,14 @@
                 ]
             },
             "properties": {
-                "name": "Zastrow",
-                "description": "Zastrow, FID: 58, Type: Staffed Camp"
+                "title": "Zastrow",
+                "name": "zastrow",
+                "description": "",
+                "fid": "58",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -837,8 +1191,14 @@
                 ]
             },
             "properties": {
-                "name": "Old Abreu",
-                "description": "Old Abreu, FID: 59, Type: Trail Camp"
+                "title": "Old Abreu",
+                "name": "old-abreu",
+                "description": "",
+                "fid": "59",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -851,8 +1211,14 @@
                 ]
             },
             "properties": {
-                "name": "Rayado River",
-                "description": "Rayado River, FID: 60, Type: Trail Camp"
+                "title": "Rayado River",
+                "name": "rayado-river",
+                "description": "",
+                "fid": "60",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -865,8 +1231,14 @@
                 ]
             },
             "properties": {
-                "name": "Abreu",
-                "description": "Abreu, FID: 61, Type: Staffed Camp"
+                "title": "Abreu",
+                "name": "abreu",
+                "description": "",
+                "fid": "61",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -879,8 +1251,14 @@
                 ]
             },
             "properties": {
-                "name": "Fish Camp",
-                "description": "Fish Camp, FID: 62, Type: Staffed Camp"
+                "title": "Fish Camp",
+                "name": "fish-camp",
+                "description": "",
+                "fid": "62",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -893,8 +1271,14 @@
                 ]
             },
             "properties": {
-                "name": "Lost Cabin",
-                "description": "Lost Cabin, FID: 63, Type: Trail Camp"
+                "title": "Lost Cabin",
+                "name": "lost-cabin",
+                "description": "",
+                "fid": "63",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -907,8 +1291,14 @@
                 ]
             },
             "properties": {
-                "name": "Apache Springs",
-                "description": "Apache Springs, FID: 64, Type: Staffed Camp"
+                "title": "Apache Springs",
+                "name": "apache-springs",
+                "description": "",
+                "fid": "64",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -921,8 +1311,14 @@
                 ]
             },
             "properties": {
-                "name": "Agua Fria",
-                "description": "Agua Fria, FID: 65, Type: Trail Camp"
+                "title": "Agua Fria",
+                "name": "agua-fria",
+                "description": "",
+                "fid": "65",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -935,8 +1331,14 @@
                 ]
             },
             "properties": {
-                "name": "Buck Creek",
-                "description": "Buck Creek, FID: 66, Type: Trail Camp"
+                "title": "Buck Creek",
+                "name": "buck-creek",
+                "description": "",
+                "fid": "66",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -949,8 +1351,14 @@
                 ]
             },
             "properties": {
-                "name": "Bear Canyon",
-                "description": "Bear Canyon, FID: 67, Type: Trail Camp"
+                "title": "Bear Canyon",
+                "name": "bear-canyon",
+                "description": "",
+                "fid": "67",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -963,8 +1371,14 @@
                 ]
             },
             "properties": {
-                "name": "Porcupine",
-                "description": "Porcupine, FID: 68, Type: Trail Camp"
+                "title": "Porcupine",
+                "name": "porcupine",
+                "description": "",
+                "fid": "68",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -977,8 +1391,14 @@
                 ]
             },
             "properties": {
-                "name": "Crooked Creek",
-                "description": "Crooked Creek, FID: 69, Type: Staffed Camp"
+                "title": "Crooked Creek",
+                "name": "crooked-creek",
+                "description": "",
+                "fid": "69",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -991,8 +1411,14 @@
                 ]
             },
             "properties": {
-                "name": "Comanche Camp",
-                "description": "Comanche Camp, FID: 70, Type: Trail Camp"
+                "title": "Comanche Camp",
+                "name": "comanche-camp",
+                "description": "",
+                "fid": "70",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1005,8 +1431,14 @@
                 ]
             },
             "properties": {
-                "name": "Clear Creek",
-                "description": "Clear Creek, FID: 71, Type: Staffed Camp"
+                "title": "Clear Creek",
+                "name": "clear-creek",
+                "description": "",
+                "fid": "71",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1019,8 +1451,14 @@
                 ]
             },
             "properties": {
-                "name": "Mount Phillips Camp",
-                "description": "Mount Phillips Camp, FID: 72, Type: Trail Camp"
+                "title": "Mount Phillips Camp",
+                "name": "mount-phillips-camp",
+                "description": "",
+                "fid": "72",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1033,8 +1471,14 @@
                 ]
             },
             "properties": {
-                "name": "Thunder Ridge",
-                "description": "Thunder Ridge, FID: 73, Type: Trail Camp"
+                "title": "Thunder Ridge",
+                "name": "thunder-ridge",
+                "description": "",
+                "fid": "73",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1047,8 +1491,14 @@
                 ]
             },
             "properties": {
-                "name": "Red Hills",
-                "description": "Red Hills, FID: 74, Type: Trail Camp"
+                "title": "Red Hills",
+                "name": "red-hills",
+                "description": "",
+                "fid": "74",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1061,8 +1511,14 @@
                 ]
             },
             "properties": {
-                "name": "Comanche Peak Camp",
-                "description": "Comanche Peak Camp, FID: 75, Type: Trail Camp"
+                "title": "Comanche Peak Camp",
+                "name": "comanche-peak-camp",
+                "description": "",
+                "fid": "75",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1075,8 +1531,14 @@
                 ]
             },
             "properties": {
-                "name": "Cyphers Mine",
-                "description": "Cyphers Mine, FID: 76, Type: Staffed Camp"
+                "title": "Cyphers Mine",
+                "name": "cyphers-mine",
+                "description": "",
+                "fid": "76",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1089,8 +1551,14 @@
                 ]
             },
             "properties": {
-                "name": "Lamberts Mine",
-                "description": "Lamberts Mine, FID: 77, Type: Trail Camp"
+                "title": "Lamberts Mine",
+                "name": "lamberts-mine",
+                "description": "",
+                "fid": "77",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1103,8 +1571,14 @@
                 ]
             },
             "properties": {
-                "name": "Ute Gulch",
-                "description": "Ute Gulch, FID: 78, Type: Staffed Camp"
+                "title": "Ute Gulch",
+                "name": "ute-gulch",
+                "description": "",
+                "fid": "78",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1117,8 +1591,14 @@
                 ]
             },
             "properties": {
-                "name": "Cimarroncito",
-                "description": "Cimarroncito, FID: 79, Type: Staffed Camp"
+                "title": "Cimarroncito",
+                "name": "cimarroncito",
+                "description": "",
+                "fid": "79",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1131,8 +1611,14 @@
                 ]
             },
             "properties": {
-                "name": "Ute Springs",
-                "description": "Ute Springs, FID: 80, Type: Trail Camp"
+                "title": "Ute Springs",
+                "name": "ute-springs",
+                "description": "",
+                "fid": "80",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1145,8 +1631,14 @@
                 ]
             },
             "properties": {
-                "name": "Aspen Springs",
-                "description": "Aspen Springs, FID: 81, Type: Trail Camp"
+                "title": "Aspen Springs",
+                "name": "aspen-springs",
+                "description": "",
+                "fid": "81",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1159,8 +1651,14 @@
                 ]
             },
             "properties": {
-                "name": "Lookout Meadow",
-                "description": "Lookout Meadow, FID: 82, Type: Trail Camp"
+                "title": "Lookout Meadow",
+                "name": "lookout-meadow",
+                "description": "",
+                "fid": "82",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1173,8 +1671,14 @@
                 ]
             },
             "properties": {
-                "name": "Crags",
-                "description": "Crags, FID: 83, Type: Trail Camp"
+                "title": "Crags",
+                "name": "crags",
+                "description": "",
+                "fid": "83",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1187,8 +1691,14 @@
                 ]
             },
             "properties": {
-                "name": "Beaubien",
-                "description": "Beaubien, FID: 84, Type: Staffed Camp"
+                "title": "Beaubien",
+                "name": "beaubien",
+                "description": "",
+                "fid": "84",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1201,8 +1711,14 @@
                 ]
             },
             "properties": {
-                "name": "Lower Bonita",
-                "description": "Lower Bonita, FID: 85, Type: Trail Camp"
+                "title": "Lower Bonita",
+                "name": "lower-bonita",
+                "description": "",
+                "fid": "85",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1215,8 +1731,14 @@
                 ]
             },
             "properties": {
-                "name": "Black Mountain Camp",
-                "description": "Black Mountain Camp, FID: 86, Type: Staffed Camp"
+                "title": "Black Mountain Camp",
+                "name": "black-mountain-camp",
+                "description": "",
+                "fid": "86",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1229,8 +1751,14 @@
                 ]
             },
             "properties": {
-                "name": "Rimrock Park",
-                "description": "Rimrock Park, FID: 87, Type: Trail Camp"
+                "title": "Rimrock Park",
+                "name": "rimrock-park",
+                "description": "",
+                "fid": "87",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1243,8 +1771,14 @@
                 ]
             },
             "properties": {
-                "name": "Lovers Leap",
-                "description": "Lovers Leap, FID: 88, Type: Trail Camp"
+                "title": "Lovers Leap",
+                "name": "lovers-leap",
+                "description": "",
+                "fid": "88",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1257,8 +1791,14 @@
                 ]
             },
             "properties": {
-                "name": "Sawmill",
-                "description": "Sawmill, FID: 89, Type: Staffed Camp"
+                "title": "Sawmill",
+                "name": "sawmill",
+                "description": "",
+                "fid": "89",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1271,8 +1811,14 @@
                 ]
             },
             "properties": {
-                "name": "Phillips Junction",
-                "description": "Phillips Junction, FID: 90, Type: Staffed Camp"
+                "title": "Phillips Junction",
+                "name": "phillips-junction",
+                "description": "",
+                "fid": "90",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1285,8 +1831,14 @@
                 ]
             },
             "properties": {
-                "name": "Dean Cuttoff",
-                "description": "Dean Cuttoff, FID: 91, Type: Trail Camp"
+                "title": "Dean Cuttoff",
+                "name": "dean-cuttoff",
+                "description": "",
+                "fid": "91",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1299,8 +1851,14 @@
                 ]
             },
             "properties": {
-                "name": "Wild Horse",
-                "description": "Wild Horse, FID: 92, Type: Trail Camp"
+                "title": "Wild Horse",
+                "name": "wild-horse",
+                "description": "",
+                "fid": "92",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1313,8 +1871,14 @@
                 ]
             },
             "properties": {
-                "name": "Carson Meadows",
-                "description": "Carson Meadows, FID: 93, Type: Staffed Camp"
+                "title": "Carson Meadows",
+                "name": "carson-meadows",
+                "description": "",
+                "fid": "93",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1327,8 +1891,14 @@
                 ]
             },
             "properties": {
-                "name": "Rich Cabins",
-                "description": "Rich Cabins, FID: 94, Type: Staffed Camp"
+                "title": "Rich Cabins",
+                "name": "rich-cabins",
+                "description": "",
+                "fid": "94",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1341,8 +1911,14 @@
                 ]
             },
             "properties": {
-                "name": "Seally Canyon",
-                "description": "Seally Canyon, FID: 95, Type: Staffed Camp"
+                "title": "Seally Canyon",
+                "name": "seally-canyon",
+                "description": "",
+                "fid": "95",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1355,8 +1931,14 @@
                 ]
             },
             "properties": {
-                "name": "Whiteman Vega",
-                "description": "Whiteman Vega, FID: 96, Type: Staffed Camp"
+                "title": "Whiteman Vega",
+                "name": "whiteman-vega",
+                "description": "",
+                "fid": "96",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1369,8 +1951,14 @@
                 ]
             },
             "properties": {
-                "name": "Ring Place",
-                "description": "Ring Place, FID: 97, Type: Staffed Camp"
+                "title": "Ring Place",
+                "name": "ring-place",
+                "description": "",
+                "fid": "97",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1383,8 +1971,14 @@
                 ]
             },
             "properties": {
-                "name": "Shuree Cabin",
-                "description": "Shuree Cabin, FID: 98, Type: Trail Camp"
+                "title": "Shuree Cabin",
+                "name": "shuree-cabin",
+                "description": "",
+                "fid": "98",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1397,8 +1991,14 @@
                 ]
             },
             "properties": {
-                "name": "Greenwood Canyon Camp",
-                "description": "Greenwood Canyon Camp, FID: 99, Type: Trail Camp"
+                "title": "Greenwood Canyon Camp",
+                "name": "greenwood-canyon-camp",
+                "description": "",
+                "fid": "99",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1411,8 +2011,14 @@
                 ]
             },
             "properties": {
-                "name": "Iris Park",
-                "description": "Iris Park, FID: 100, Type: Trail Camp"
+                "title": "Iris Park",
+                "name": "iris-park",
+                "description": "",
+                "fid": "100",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1425,8 +2031,14 @@
                 ]
             },
             "properties": {
-                "name": "House Canyon",
-                "description": "House Canyon, FID: 101, Type: Trail Camp"
+                "title": "House Canyon",
+                "name": "house-canyon",
+                "description": "",
+                "fid": "101",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1439,8 +2051,14 @@
                 ]
             },
             "properties": {
-                "name": "Rayado",
-                "description": "Rayado, FID: 102, Type: Staffed Camp"
+                "title": "Rayado",
+                "name": "rayado",
+                "description": "",
+                "fid": "102",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1453,8 +2071,14 @@
                 ]
             },
             "properties": {
-                "name": "Upper Greenwood Canyon",
-                "description": "Upper Greenwood Canyon, FID: 103, Type: Trail Camp"
+                "title": "Upper Greenwood Canyon",
+                "name": "upper-greenwood-canyon",
+                "description": "",
+                "fid": "103",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1467,8 +2091,14 @@
                 ]
             },
             "properties": {
-                "name": "Little Costilla",
-                "description": "Little Costilla, FID: 104, Type: Mountain"
+                "title": "Little Costilla",
+                "name": "little-costilla",
+                "description": "",
+                "fid": "104",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1481,8 +2111,14 @@
                 ]
             },
             "properties": {
-                "name": "Beatty Lakes",
-                "description": "Beatty Lakes, FID: 105, Type: Trail Camp"
+                "title": "Beatty Lakes",
+                "name": "beatty-lakes",
+                "description": "",
+                "fid": "105",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1495,8 +2131,14 @@
                 ]
             },
             "properties": {
-                "name": "Ponil Turnaround",
-                "description": "Ponil Turnaround, FID: 106, Type: Turnaround"
+                "title": "Ponil Turnaround",
+                "name": "ponil-turnaround",
+                "description": "",
+                "fid": "106",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1509,8 +2151,14 @@
                 ]
             },
             "properties": {
-                "name": "Six Mile Gate",
-                "description": "Six Mile Gate, FID: 107, Type: Turnaround"
+                "title": "Six Mile Gate",
+                "name": "six-mile-gate",
+                "description": "",
+                "fid": "107",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1523,8 +2171,14 @@
                 ]
             },
             "properties": {
-                "name": "Maxwell Turnaround",
-                "description": "Maxwell Turnaround, FID: 108, Type: Turnaround"
+                "title": "Maxwell Turnaround",
+                "name": "maxwell-turnaround",
+                "description": "",
+                "fid": "108",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1537,8 +2191,14 @@
                 ]
             },
             "properties": {
-                "name": "Bear Canyon Turnaround",
-                "description": "Bear Canyon Turnaround, FID: 109, Type: Turnaround"
+                "title": "Bear Canyon Turnaround",
+                "name": "bear-canyon-turnaround",
+                "description": "",
+                "fid": "109",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1551,8 +2211,14 @@
                 ]
             },
             "properties": {
-                "name": "Turkey Creek Turnaround",
-                "description": "Turkey Creek Turnaround, FID: 110, Type: Turnaround"
+                "title": "Turkey Creek Turnaround",
+                "name": "turkey-creek-turnaround",
+                "description": "",
+                "fid": "110",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1565,8 +2231,14 @@
                 ]
             },
             "properties": {
-                "name": "Base Camp",
-                "description": "Base Camp, FID: 111, Type: Staffed Camp"
+                "title": "Base Camp",
+                "name": "base-camp",
+                "description": "",
+                "fid": "111",
+                "type": "Staffed",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1579,8 +2251,14 @@
                 ]
             },
             "properties": {
-                "name": "Lovers Leap Turnaround",
-                "description": "Lovers Leap Turnaround, FID: 112, Type: Turnaround"
+                "title": "Lovers Leap Turnaround",
+                "name": "lovers-leap-turnaround",
+                "description": "",
+                "fid": "112",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1593,8 +2271,14 @@
                 ]
             },
             "properties": {
-                "name": "Zastrow Turnaround",
-                "description": "Zastrow Turnaround, FID: 113, Type: Turnaround"
+                "title": "Zastrow Turnaround",
+                "name": "zastrow-turnaround",
+                "description": "",
+                "fid": "113",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1607,8 +2291,14 @@
                 ]
             },
             "properties": {
-                "name": "Trail Peak",
-                "description": "Trail Peak, FID: 114, Type: Mountain"
+                "title": "Trail Peak",
+                "name": "trail-peak",
+                "description": "",
+                "fid": "114",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1621,8 +2311,14 @@
                 ]
             },
             "properties": {
-                "name": "Lookout Peak",
-                "description": "Lookout Peak, FID: 115, Type: Mountain"
+                "title": "Lookout Peak",
+                "name": "lookout-peak",
+                "description": "",
+                "fid": "115",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1635,8 +2331,14 @@
                 ]
             },
             "properties": {
-                "name": "Mount Phillips",
-                "description": "Mount Phillips, FID: 116, Type: Mountain"
+                "title": "Mount Phillips",
+                "name": "mount-phillips",
+                "description": "",
+                "fid": "116",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1649,8 +2351,14 @@
                 ]
             },
             "properties": {
-                "name": "Comanche Peak",
-                "description": "Comanche Peak, FID: 117, Type: Mountain"
+                "title": "Comanche Peak",
+                "name": "comanche-peak",
+                "description": "",
+                "fid": "117",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1663,8 +2371,14 @@
                 ]
             },
             "properties": {
-                "name": "Big Red",
-                "description": "Big Red, FID: 118, Type: Mountain"
+                "title": "Big Red",
+                "name": "big-red",
+                "description": "",
+                "fid": "118",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1677,8 +2391,14 @@
                 ]
             },
             "properties": {
-                "name": "Bonito Peak",
-                "description": "Bonito Peak, FID: 119, Type: Mountain"
+                "title": "Bonito Peak",
+                "name": "bonito-peak",
+                "description": "",
+                "fid": "119",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1691,8 +2411,14 @@
                 ]
             },
             "properties": {
-                "name": "Black Mountain",
-                "description": "Black Mountain, FID: 120, Type: Mountain"
+                "title": "Black Mountain",
+                "name": "black-mountain",
+                "description": "",
+                "fid": "120",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1705,8 +2431,14 @@
                 ]
             },
             "properties": {
-                "name": "Shaefers Peak",
-                "description": "Shaefers Peak, FID: 121, Type: Mountain"
+                "title": "Shaefers Peak",
+                "name": "shaefers-peak",
+                "description": "",
+                "fid": "121",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1719,8 +2451,14 @@
                 ]
             },
             "properties": {
-                "name": "Tooth Of Time",
-                "description": "Tooth Of Time, FID: 122, Type: Mountain"
+                "title": "Tooth Of Time",
+                "name": "tooth-of-time",
+                "description": "",
+                "fid": "122",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1733,8 +2471,14 @@
                 ]
             },
             "properties": {
-                "name": "McCrystal Creek",
-                "description": "McCrystal Creek, FID: 123, Type: Trail Camp"
+                "title": "McCrystal Creek",
+                "name": "mccrystal-creek",
+                "description": "",
+                "fid": "123",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1747,8 +2491,14 @@
                 ]
             },
             "properties": {
-                "name": "Cimarroncito Turnaround",
-                "description": "Cimarroncito Turnaround, FID: 124, Type: Turnaround"
+                "title": "Cimarroncito Turnaround",
+                "name": "cimarroncito-turnaround",
+                "description": "",
+                "fid": "124",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1761,8 +2511,14 @@
                 ]
             },
             "properties": {
-                "name": "Hart Peak",
-                "description": "Hart Peak, FID: 125, Type: Mountain"
+                "title": "Hart Peak",
+                "name": "hart-peak",
+                "description": "",
+                "fid": "125",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1775,8 +2531,14 @@
                 ]
             },
             "properties": {
-                "name": "Baldy Mountain",
-                "description": "Baldy Mountain, FID: 126, Type: Mountain"
+                "title": "Baldy Mountain",
+                "name": "baldy-mountain",
+                "description": "",
+                "fid": "126",
+                "type": "Mountain",
+                "marker-size": "medium",
+                "marker-color": "#27AE60",
+                "marker-symbol": "triangle"
             }
         },
         {
@@ -1789,8 +2551,14 @@
                 ]
             },
             "properties": {
-                "name": "Trail Canyon",
-                "description": "Trail Canyon, FID: 127, Type: Trail Camp"
+                "title": "Trail Canyon",
+                "name": "trail-canyon",
+                "description": "",
+                "fid": "127",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1803,8 +2571,14 @@
                 ]
             },
             "properties": {
-                "name": "Trail Canyon Turnaround",
-                "description": "Trail Canyon Turnaround, FID: 128, Type: Turnaround"
+                "title": "Trail Canyon Turnaround",
+                "name": "trail-canyon-turnaround",
+                "description": "",
+                "fid": "128",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1817,8 +2591,14 @@
                 ]
             },
             "properties": {
-                "name": "Campos Heck",
-                "description": "Campos Heck, FID: 129, Type: Trail Camp"
+                "title": "Campos Heck",
+                "name": "campos-heck",
+                "description": "",
+                "fid": "129",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1831,8 +2611,14 @@
                 ]
             },
             "properties": {
-                "name": "Slate Hill Heck",
-                "description": "Slate Hill Heck, FID: 130, Type: Trail Camp"
+                "title": "Slate Hill Heck",
+                "name": "slate-hill-heck",
+                "description": "",
+                "fid": "130",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1845,8 +2631,14 @@
                 ]
             },
             "properties": {
-                "name": "Dean Heck",
-                "description": "Dean Heck, FID: 131, Type: Trail Camp"
+                "title": "Dean Heck",
+                "name": "dean-heck",
+                "description": "",
+                "fid": "131",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1859,8 +2651,14 @@
                 ]
             },
             "properties": {
-                "name": "Heck Turnaround",
-                "description": "Heck Turnaround, FID: 132, Type: Turnaround"
+                "title": "Heck Turnaround",
+                "name": "heck-turnaround",
+                "description": "",
+                "fid": "132",
+                "type": "Turnaround",
+                "marker-size": "medium",
+                "marker-color": "#2980B9",
+                "marker-symbol": "circle"
             }
         },
         {
@@ -1873,8 +2671,14 @@
                 ]
             },
             "properties": {
-                "name": "Martinez Springs",
-                "description": "Martinez Springs, FID: 133, Type: Trail Camp"
+                "title": "Martinez Springs",
+                "name": "martinez-springs",
+                "description": "",
+                "fid": "133",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1887,8 +2691,14 @@
                 ]
             },
             "properties": {
-                "name": "Lost Gap",
-                "description": "Lost Gap, FID: 134, Type: Trail Camp"
+                "title": "Lost Gap",
+                "name": "lost-gap",
+                "description": "",
+                "fid": "134",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         },
         {
@@ -1901,8 +2711,14 @@
                 ]
             },
             "properties": {
-                "name": "Stockade Ridge",
-                "description": "Stockade Ridge, FID: 135, Type: Trail Camp"
+                "title": "Stockade Ridge",
+                "name": "stockade-ridge",
+                "description": "",
+                "fid": "135",
+                "type": "Trail",
+                "marker-size": "medium",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "campsite"
             }
         }
     ]
