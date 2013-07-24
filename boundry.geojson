@@ -3725,8 +3725,11 @@
                 ]
             },
             "properties": {
-                "name": "Philmont Scout Ranch Property Boundary",
-                "description": "Philmont Scout Ranch Property Boundary"
+                "title": "Philmont Scout Ranch Property Boundary",
+                "name": "philmont-scout-ranch-property-boundary",
+                "description": "",
+                "fid": "0",
+                "type": "Boundary"
             }
         }
     ]
