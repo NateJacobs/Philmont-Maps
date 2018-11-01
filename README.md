@@ -1,6 +1,6 @@
 # Unofficial Philmont Maps
 
-All camp and trail locations of itineraries at Philmont Scout Ranch. These geojson files are converted from the offical Philmont provided KMZs. You can download the offical files from the Philmont Scout Ranch [website](http://philmontscoutranch.org/TrekPreparation/PhilmontSpatialData.aspx). 
+All camp and trail locations of itineraries at Philmont Scout Ranch. These geojson files are converted from the offical Philmont provided KMZs. You can download the offical files from the Philmont Scout Ranch [website](http://philmontscoutranch.org/Resources/GIS.aspx). 
 
 The geojson files in this repo are not supported by or endorsed by Philmont Scout Ranch or the Boy Scouts of America. The spatial data is for private use only and is not to be used for commercial purposes.
 
